@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectConfig xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/SAAT.ConfigHandler">
+  <ArxmlFilePath z:Id="2">F:\autosar course\tasks\Draft_Tasks_solutions\RTE_Task4_part2\client_server_task3_AutoSAR_Sprints.arxml</ArxmlFilePath>
+  <FilePath z:Id="3">F:\autosar course\tasks\Draft_Tasks_solutions\RTE_Task4_part2\client_server_task3_AutoSAR_Sprints.xml</FilePath>
+  <ProjectName z:Id="4">SeatAdjManger_task2_AutoSAR_Sprints</ProjectName>
+  <TopCompositionName z:Id="5">SeatAdjManger_task2_AutoSAR_SprintsComposition</TopCompositionName>
+</ProjectConfig>
